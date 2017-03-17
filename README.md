@@ -1,5 +1,5 @@
 # Mocha Testing Framework
-
+Done.
 ## Objectives
 
 1. Describe how to install Mocha and Chai Expect
@@ -47,7 +47,7 @@ Note: Chai comes with Expect so by installing Chai we are getting Chai Expect.
 
 Expect has a lot of features and if you're familiar with behavioral-driven development (like from Rspec and Jasmine), you can learn Expect fast. We won't be covering all of the features in the lesson, only the most important ones which you'll encounter in the labs of this course.
 
-You can create a file `test.js` to follow this exercise. So in the beginning, we need to import the module. 
+You can create a file `test.js` to follow this exercise. So in the beginning, we need to import the module.
 
 ```js
 var expect = require('chai').expect
